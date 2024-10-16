@@ -22,7 +22,8 @@
             overflow-x: hidden;
         }
         .header-container {
-            width: 100vw; 
+            width: 100vw;
+            min-height: 100vh;
             background-color: #f8f9fa; 
             padding: 70px 0; 
             text-align: center;
@@ -184,8 +185,8 @@
                 <i class="fa-solid fa-user"></i>
             </div>
             <div id="input">
-                <input type="password" name="password" placeholder="Enter Password" required>
-                <i class="fa-solid fa-lock"></i>
+                <input type="password" id="password" name="password" placeholder="Enter Password" required>
+                <i class="fa-solid fa-eye" id="togglePassword"></i>
             </div>
             <button type="submit">Log In</button>
         </form>
@@ -221,6 +222,22 @@
             circle.x = 0;
             circle.y = 0;
             circle.style.backgroundColor = colors[index % colors.length];
+        });
+
+
+         // Select the password field and the eye icon
+         const passwordInput = document.getElementById('password');
+         const togglePassword = document.getElementById('togglePassword');
+
+        // Add an event listener to the eye icon
+        togglePassword.addEventListener('click', function () {
+            // Toggle the type attribute between password and text
+            const type = passwordInput.getAttribute('type') === 'password' ? 'text' : 'password';
+            passwordInput.setAttribute('type', type);
+      
+            // Toggle the icon between eye and eye-slash
+            this.classList.toggle('fa-eye');
+            this.classList.toggle('fa-eye-slash');
         });
 
         // Update the coordinates when the mouse moves

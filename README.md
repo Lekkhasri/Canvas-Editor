@@ -35,7 +35,20 @@
 </div>
 <br>
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+
+<h2>Open-Source-Programmes⭐</h2>
+
+<!-- Added Hacktoberfest 2024 and GSSoC Extended 2024 banners -->
+### This project is now OFFICIALLY accepted for
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SwanandD121/FeatherPerfect_fe/refs/heads/main/Untitled%20design.png" alt="GSSoC 2024 Extd" width="80%">
+  <img src="https://cdn.discordapp.com/attachments/657543125190967316/1294560786114674748/Screenshot_2024-10-12_122347.png?ex=670b752f&is=670a23af&hm=26ddd7f41740b8b19ee4985e7568b3892091384b3b85e7165770a4b10f4d1050&" alt="Hacktoberfest 2024" width="80%">
+</div>
+<br>
+
 
 <h2>Hi there,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" /> Enjoy the World of Open source contribution <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"> </h2>
 
@@ -68,6 +81,10 @@ To change the background color or image:
 <li> For background color: Select a color from the color picker to apply it to the canvas!</li>
 <li> For background image: Upload an image file, and it will be displayed as the canvas background!</li>
 
+<br>
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Technology Used</h2>
 
@@ -78,22 +95,11 @@ To change the background color or image:
 </p>
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
 
-<h2>Open-Source-Programmes⭐</h2>
-
- ### This project is now OFFICIALLY accepted for
-
-<div align="center">
-  <img src="https://github.com/apu52/METAVERSE/assets/114172928/e79eb6de-81b1-4ffb-b6ed-f018bb977e88" alt="GSSOC" width="80%">
-</div>
-
-<br>
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <h2>Getting Started💥</h2>
 
-<!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 ## How to make a Pull Request?
 
 **1.** Start by forking the [**Canvas-Editor**](https://github.com/vishanurag/Canvas-Editor) repository. Click on the <a href="https://github.com/vishanurag/Canvas-Editor/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
@@ -172,6 +178,8 @@ git push origin YourBranchName
  **Congratulations! You've made your first contribution! 🙌🏼**
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
 
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
  # Project Admin⚡
  
@@ -180,21 +188,40 @@ git push origin YourBranchName
 <td align="center"><a href="https://github.com/vishanurag"><img src="https://avatars.githubusercontent.com/u/126074487?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Anurag Vishwakarma</h4>
  <a href="https://www.linkedin.com/in/anuragvishwakarma/"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="32px" height="32px"></img></a>
 </td>
-
 </tr>
 </table>
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
   
+## Contributors
+
+We are immensely grateful to the following amazing individuals who have contributed their time, effort, and expertise to make this project better. Your contributions, whether through code, documentation, bug reports, or feature suggestions, have been invaluable. Thank you for helping us build and improve Canvas Editor 🌟✨
+
+Your dedication and hard work are what drive this project forward, and we couldn't have done it without you. Each contribution, no matter how small, plays a crucial role in our journey towards creating a more efficient and user-friendly tool for developers. 🙌💻
+
+We look forward to your continued support and collaboration. Together, we can achieve even greater heights! 🚀🌐
+
+Thank you once again to all our contributors! Your efforts are truly appreciated. 💖👏
+
+<div align="center">
+    <img src="https://contrib.rocks/image?repo=vishanurag/Canvas-Editor">
+<div>
+
+<br>
+
+### &#8627; Stargazers
+
+<div align='center'>
+
+[![Stargazers repo roster for @vishanurag/Canvas-Editor](https://reporoster.com/stars/vishanurag/Canvas-Editor)](https://github.com/vishanurag/Canvas-Editor/stargazers)
+
 </div>
 
+### &#8627; Forkers
 
-### Contributors
+<div align='center'>
 
-| [4F24L](https://github.com/4F24L) | [ANURAG VISHWAKARMA](https://github.com/ANURAG VISHWAKARMA) | [Abhinav](https://github.com/Abhinav) | [Aman Kumar](https://github.com/Aman Kumar) | [AnantInamdar77](https://github.com/AnantInamdar77) | [Ananya Gupta](https://github.com/Ananya Gupta) | [Anuj Shrivastava](https://github.com/Anuj Shrivastava) | [Anurag Vishwakarma](https://github.com/Anurag Vishwakarma) | [Archisman Khanra](https://github.com/Archisman Khanra) | [Ayushi_Taralkar](https://github.com/Ayushi_Taralkar) | [Ayushraj_2804](https://github.com/Ayushraj_2804) | [Bhoomysingh10](https://github.com/Bhoomysingh10) | [Gayatri](https://github.com/Gayatri) | [Gayatri Mohite](https://github.com/Gayatri Mohite) | [Hannah Maria](https://github.com/Hannah Maria) | [Haris Ellahi](https://github.com/Haris Ellahi) | [Himangshu Sharma](https://github.com/Himangshu Sharma) | [Ishika Gupta](https://github.com/Ishika Gupta) | [Jahnavika gopal](https://github.com/Jahnavika gopal) | [Jahnavikagopal](https://github.com/Jahnavikagopal) |
-| [Ayushraj_2804](https://github.com/Ayushraj_2804) | [Bhoomysingh10](https://github.com/Bhoomysingh10) | [Gayatri](https://github.com/Gayatri) | [Gayatri Mohite](https://github.com/Gayatri Mohite) | [Hannah Maria](https://github.com/Hannah Maria) | [Haris Ellahi](https://github.com/Haris Ellahi) | [Himangshu Sharma](https://github.com/Himangshu Sharma) | [Ishika Gupta](https://github.com/Ishika Gupta) | [Jahnavika gopal](https://github.com/Jahnavika gopal) | [Jahnavikagopal](https://github.com/Jahnavikagopal) | [KAmal-senpai](https://github.com/KAmal-senpai) | [Kamal sing bhumij](https://github.com/Kamal sing bhumij) | [Kartik Kumar Pandey](https://github.com/Kartik Kumar Pandey) | [Khushi-Nigam](https://github.com/Khushi-Nigam) | [MIGHTY1o1](https://github.com/MIGHTY1o1) | [Manya .N](https://github.com/Manya .N) | [Meesala Govindu](https://github.com/Meesala Govindu) | [Neeru](https://github.com/Neeru) | [Patel Harsh](https://github.com/Patel Harsh) | [PavanTeja2005](https://github.com/PavanTeja2005) |
-| [KAmal-senpai](https://github.com/KAmal-senpai) | [Kamal sing bhumij](https://github.com/Kamal sing bhumij) | [Kartik Kumar Pandey](https://github.com/Kartik Kumar Pandey) | [Khushi-Nigam](https://github.com/Khushi-Nigam) | [MIGHTY1o1](https://github.com/MIGHTY1o1) | [Manya .N](https://github.com/Manya .N) | [Meesala Govindu](https://github.com/Meesala Govindu) | [Neeru](https://github.com/Neeru) | [Patel Harsh](https://github.com/Patel Harsh) | [PavanTeja2005](https://github.com/PavanTeja2005) | [Poorvika](https://github.com/Poorvika) | [Poushmita](https://github.com/Poushmita) | [Poushmita Paul](https://github.com/Poushmita Paul) | [Prachi Ikhar](https://github.com/Prachi Ikhar) | [Pranshu Jaiswal](https://github.com/Pranshu Jaiswal) | [Rajdeep Chakraborty](https://github.com/Rajdeep Chakraborty) | [Rounak Dey](https://github.com/Rounak Dey) | [Sagar2006](https://github.com/Sagar2006) | [Samyak Aditya](https://github.com/Samyak Aditya) | [Santhosh Sudhaan N G](https://github.com/Santhosh Sudhaan N G) |
-| [Poorvika](https://github.com/Poorvika) | [Poushmita](https://github.com/Poushmita) | [Poushmita Paul](https://github.com/Poushmita Paul) | [Prachi Ikhar](https://github.com/Prachi Ikhar) | [Pranshu Jaiswal](https://github.com/Pranshu Jaiswal) | [Rajdeep Chakraborty](https://github.com/Rajdeep Chakraborty) | [Rounak Dey](https://github.com/Rounak Dey) | [Sagar2006](https://github.com/Sagar2006) | [Samyak Aditya](https://github.com/Samyak Aditya) | [Santhosh Sudhaan N G](https://github.com/Santhosh Sudhaan N G) | [Shrinedhi.M.R.](https://github.com/Shrinedhi.M.R.) | [Sneha Tiwari](https://github.com/Sneha Tiwari) | [Sri Lekkha](https://github.com/Sri Lekkha) | [Sri lekkha Ramesh](https://github.com/Sri lekkha Ramesh) | [Srishti Soni](https://github.com/Srishti Soni) | [Subin Shakya](https://github.com/Subin Shakya) | [Sujal Patil](https://github.com/Sujal Patil) | [Sumit Rathor](https://github.com/Sumit Rathor) | [Tanushree084](https://github.com/Tanushree084) | [Venkata Vyshnavi Bondalapati](https://github.com/Venkata Vyshnavi Bondalapati) |
-| [Shrinedhi.M.R.](https://github.com/Shrinedhi.M.R.) | [Sneha Tiwari](https://github.com/Sneha Tiwari) | [Sri Lekkha](https://github.com/Sri Lekkha) | [Sri lekkha Ramesh](https://github.com/Sri lekkha Ramesh) | [Srishti Soni](https://github.com/Srishti Soni) | [Subin Shakya](https://github.com/Subin Shakya) | [Sujal Patil](https://github.com/Sujal Patil) | [Sumit Rathor](https://github.com/Sumit Rathor) | [Tanushree084](https://github.com/Tanushree084) | [Venkata Vyshnavi Bondalapati](https://github.com/Venkata Vyshnavi Bondalapati) | [VidhanThakur09](https://github.com/VidhanThakur09) | [VivekShahare04](https://github.com/VivekShahare04) | [Web-Dev-Learner](https://github.com/Web-Dev-Learner) | [abhishek farshwal](https://github.com/abhishek farshwal) | [adityalaxkar](https://github.com/adityalaxkar) | [adityalaxkar123](https://github.com/adityalaxkar123) | [archanasingh11](https://github.com/archanasingh11) | [ash-k121](https://github.com/ash-k121) | [geenath](https://github.com/geenath) | [govindumeesala](https://github.com/govindumeesala) |
-| [VidhanThakur09](https://github.com/VidhanThakur09) | [VivekShahare04](https://github.com/VivekShahare04) | [Web-Dev-Learner](https://github.com/Web-Dev-Learner) | [abhishek farshwal](https://github.com/abhishek farshwal) | [adityalaxkar](https://github.com/adityalaxkar) | [adityalaxkar123](https://github.com/adityalaxkar123) | [archanasingh11](https://github.com/archanasingh11) | [ash-k121](https://github.com/ash-k121) | [geenath](https://github.com/geenath) | [govindumeesala](https://github.com/govindumeesala) | [krishnamverma951@gmail.com](https://github.com/krishnamverma951@gmail.com) | [monishkumardvs](https://github.com/monishkumardvs) | [mrpankajpandey](https://github.com/mrpankajpandey) | [phantom_.1](https://github.com/phantom_.1) | [poorvikaa08](https://github.com/poorvikaa08) | [priya](https://github.com/priya) | [riyarane46](https://github.com/riyarane46) | [rounakdey6](https://github.com/rounakdey6) | [rutika kengal](https://github.com/rutika kengal) | [saadgibawa](https://github.com/saadgibawa) |
-| [krishnamverma951@gmail.com](https://github.com/krishnamverma951@gmail.com) | [monishkumardvs](https://github.com/monishkumardvs) | [mrpankajpandey](https://github.com/mrpankajpandey) | [phantom_.1](https://github.com/phantom_.1) | [poorvikaa08](https://github.com/poorvikaa08) | [priya](https://github.com/priya) | [riyarane46](https://github.com/riyarane46) | [rounakdey6](https://github.com/rounakdey6) | [rutika kengal](https://github.com/rutika kengal) | [saadgibawa](https://github.com/saadgibawa) | [sarinsanyal](https://github.com/sarinsanyal) | [sejals23](https://github.com/sejals23) | [simmi verma](https://github.com/simmi verma) | [sriraghavi22](https://github.com/sriraghavi22) | [tanish](https://github.com/tanish) | [tanishkagarg1911](https://github.com/tanishkagarg1911) | [yashksaini-coder](https://github.com/yashksaini-coder) | [Archisman Khanra](https://github.com/Archisman Khanra) |
-| [sarinsanyal](https://github.com/sarinsanyal) | [sejals23](https://github.com/sejals23) | [simmi verma](https://github.com/simmi verma) | [sriraghavi22](https://github.com/sriraghavi22) | [tanish](https://github.com/tanish) | [tanishkagarg1911](https://github.com/tanishkagarg1911) | [yashksaini-coder](https://github.com/yashksaini-coder) | [Archisman Khanra](https://github.com/Archisman Khanra) |  |
+[![Forkers repo roster for @vishanurag/Canvas-Editor](https://reporoster.com/forks/vishanurag/Canvas-Editor)](https://github.com/vishanurag/Canvas-Editor/network/members)
 
+</div>
